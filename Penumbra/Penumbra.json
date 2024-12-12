@@ -5,7 +5,7 @@
     "Description": "Runtime mod loader and manager.",
     "InternalName": "Penumbra",
     "AssemblyVersion": "9.0.0.1",
-    "RepoUrl": "https://github.com/xivdev/Penumbra",
+    "RepoUrl": "https://github.com/Merphiel/thisisnotaplogon",
     "ApplicableVersion": "any",
     "Tags": [ "modding" ],
     "DalamudApiLevel": 10,
